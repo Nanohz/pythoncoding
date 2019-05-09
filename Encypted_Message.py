@@ -16,5 +16,5 @@ for character in message:
   newCharacter = alphabet[newPosition]
   #print('This is now the new character :'+ newCharacter)
   newMessage += newCharacter 
-  print('You new message is :' + newMessage)
+  print('Your new message is :' + newMessage)
   
